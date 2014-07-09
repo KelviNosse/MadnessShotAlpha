@@ -1,0 +1,367 @@
+# depslib dependency file v1.0
+1402104787 source:/home/mendez/Documents/MadnessShotConfigs/BOSS.cpp
+	"BOSS.h"
+
+1402104787 /home/mendez/Documents/MadnessShotConfigs/BOSS.h
+	"Enemies.h"
+
+1402104787 /home/mendez/Documents/MadnessShotConfigs/Enemies.h
+	<SDL/SDL.h>
+	<iostream>
+
+1402104787 source:/home/mendez/Documents/MadnessShotConfigs/derecha.cpp
+	"derecha.h"
+
+1402104787 /home/mendez/Documents/MadnessShotConfigs/derecha.h
+	"Enemies.h"
+
+1402104787 source:/home/mendez/Documents/MadnessShotConfigs/Enemies.cpp
+	"Enemies.h"
+
+1402111221 source:/home/mendez/Documents/MadnessShotConfigs/main.cpp
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	<string>
+	<stdlib.h>
+	<iostream>
+	"Enemies.h"
+	<list>
+	"derecha.h"
+	"abajo.h"
+	"arriba.h"
+	<sstream>
+	<fstream>
+	"SDL/SDL_ttf.h"
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	"SDL/SDL_mixer.h"
+	<list>
+	<algorithm>
+	<vector>
+	"BOSS.h"
+
+1402104787 /home/mendez/Documents/MadnessShotConfigs/abajo.h
+	"Enemies.h"
+
+1402104787 /home/mendez/Documents/MadnessShotConfigs/arriba.h
+	"Enemies.h"
+
+1402216060 source:/home/cvarela/Desktop/PROGRA3/Madness/JuegoActualizado/BOSS.cpp
+	"BOSS.h"
+
+1402216083 /home/cvarela/Desktop/PROGRA3/Madness/JuegoActualizado/BOSS.h
+	"Enemies.h"
+	"SDL/SDL_image.h"
+
+1402214063 /home/cvarela/Desktop/PROGRA3/Madness/JuegoActualizado/Enemies.h
+	<SDL/SDL.h>
+	<iostream>
+
+1402214063 source:/home/cvarela/Desktop/PROGRA3/Madness/JuegoActualizado/derecha.cpp
+	"derecha.h"
+
+1402214015 /home/cvarela/Desktop/PROGRA3/Madness/JuegoActualizado/derecha.h
+	"Enemies.h"
+
+1402215590 source:/home/cvarela/Desktop/PROGRA3/Madness/JuegoActualizado/Enemies.cpp
+	"Enemies.h"
+
+1402216754 source:/home/cvarela/Desktop/PROGRA3/Madness/JuegoActualizado/main.cpp
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	<string>
+	<stdlib.h>
+	<iostream>
+	"Enemies.h"
+	<list>
+	"derecha.h"
+	"abajo.h"
+	"arriba.h"
+	<sstream>
+	<fstream>
+	"SDL/SDL_ttf.h"
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	"SDL/SDL_mixer.h"
+	<list>
+	<algorithm>
+	<vector>
+	"BOSS.h"
+
+1402213058 /home/cvarela/Desktop/PROGRA3/Madness/JuegoActualizado/abajo.h
+	"Enemies.h"
+
+1402213058 /home/cvarela/Desktop/PROGRA3/Madness/JuegoActualizado/arriba.h
+	"Enemies.h"
+
+1402216060 source:/home/cvarela/Desktop/PROGRA3/Madnesshot1.2/BOSS.cpp
+	"BOSS.h"
+
+1402216083 /home/cvarela/Desktop/PROGRA3/Madnesshot1.2/BOSS.h
+	"Enemies.h"
+	"SDL/SDL_image.h"
+
+1402214063 /home/cvarela/Desktop/PROGRA3/Madnesshot1.2/Enemies.h
+	<SDL/SDL.h>
+	<iostream>
+
+1402214063 source:/home/cvarela/Desktop/PROGRA3/Madnesshot1.2/derecha.cpp
+	"derecha.h"
+
+1402214015 /home/cvarela/Desktop/PROGRA3/Madnesshot1.2/derecha.h
+	"Enemies.h"
+
+1402215590 source:/home/cvarela/Desktop/PROGRA3/Madnesshot1.2/Enemies.cpp
+	"Enemies.h"
+
+1402245005 source:/home/cvarela/Desktop/PROGRA3/Madnesshot1.2/main.cpp
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	<string>
+	<stdlib.h>
+	<iostream>
+	"Enemies.h"
+	<list>
+	"derecha.h"
+	"abajo.h"
+	"arriba.h"
+	<sstream>
+	<fstream>
+	"SDL/SDL_ttf.h"
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	"SDL/SDL_mixer.h"
+	<list>
+	<algorithm>
+	<vector>
+	"BOSS.h"
+
+1402213058 /home/cvarela/Desktop/PROGRA3/Madnesshot1.2/abajo.h
+	"Enemies.h"
+
+1402213058 /home/cvarela/Desktop/PROGRA3/Madnesshot1.2/arriba.h
+	"Enemies.h"
+
+1402423388 source:/home/kelvinosse/Downloads/MADNESSHOTV1.2-master/BOSS.cpp
+	"BOSS.h"
+
+1402245489 /home/kelvinosse/Downloads/MADNESSHOTV1.2-master/BOSS.h
+	"Enemies.h"
+	"SDL/SDL_image.h"
+
+1402245489 /home/kelvinosse/Downloads/MADNESSHOTV1.2-master/Enemies.h
+	<SDL/SDL.h>
+	<iostream>
+
+1402245489 source:/home/kelvinosse/Downloads/MADNESSHOTV1.2-master/derecha.cpp
+	"derecha.h"
+
+1402245489 /home/kelvinosse/Downloads/MADNESSHOTV1.2-master/derecha.h
+	"Enemies.h"
+
+1402245489 source:/home/kelvinosse/Downloads/MADNESSHOTV1.2-master/Enemies.cpp
+	"Enemies.h"
+
+1403026121 source:/home/kelvinosse/Downloads/MADNESSHOTV1.2-master/main.cpp
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	<string>
+	<stdlib.h>
+	<iostream>
+	"Enemies.h"
+	<list>
+	"derecha.h"
+	"abajo.h"
+	"arriba.h"
+	<sstream>
+	<fstream>
+	"SDL/SDL_ttf.h"
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	"SDL/SDL_mixer.h"
+	<list>
+	<algorithm>
+	<vector>
+	"BOSS.h"
+
+1402245489 /home/kelvinosse/Downloads/MADNESSHOTV1.2-master/abajo.h
+	"Enemies.h"
+
+1402245489 /home/kelvinosse/Downloads/MADNESSHOTV1.2-master/arriba.h
+	"Enemies.h"
+
+1403387617 source:/home/kelvinosse/Downloads/MadnessShotConfigs-master/BOSS.cpp
+	"BOSS.h"
+
+1403026697 /home/kelvinosse/Downloads/MadnessShotConfigs-master/BOSS.h
+	"Enemies.h"
+	"SDL/SDL_image.h"
+
+1403026697 /home/kelvinosse/Downloads/MadnessShotConfigs-master/Enemies.h
+	<SDL/SDL.h>
+	<iostream>
+
+1403026697 source:/home/kelvinosse/Downloads/MadnessShotConfigs-master/derecha.cpp
+	"derecha.h"
+
+1403026697 /home/kelvinosse/Downloads/MadnessShotConfigs-master/derecha.h
+	"Enemies.h"
+
+1403026697 source:/home/kelvinosse/Downloads/MadnessShotConfigs-master/Enemies.cpp
+	"Enemies.h"
+
+1403506434 source:/home/kelvinosse/Downloads/MadnessShotConfigs-master/main.cpp
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	<string>
+	<stdlib.h>
+	<iostream>
+	"Enemies.h"
+	<list>
+	"derecha.h"
+	"abajo.h"
+	"arriba.h"
+	<sstream>
+	<fstream>
+	"SDL/SDL_ttf.h"
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	"SDL/SDL_mixer.h"
+	<list>
+	<algorithm>
+	<vector>
+	"BOSS.h"
+	"BOSSL2.h"
+
+1403026697 /home/kelvinosse/Downloads/MadnessShotConfigs-master/abajo.h
+	"Enemies.h"
+
+1403026697 /home/kelvinosse/Downloads/MadnessShotConfigs-master/arriba.h
+	"Enemies.h"
+
+1403486117 source:/home/kelvinosse/Downloads/MadnessShotConfigs-master/BOSSL2.cpp
+	"BOSSL2.h"
+
+1403479329 /home/kelvinosse/Downloads/MadnessShotConfigs-master/BOSSL2.h
+	"Enemies.h"
+	"SDL/SDL_image.h"
+
+1403509167 source:/home/cvarela/Desktop/PROGRA3/madnessfinalversion1/MadnessShotBeta/BOSS.cpp
+	"BOSS.h"
+
+1403509167 /home/cvarela/Desktop/PROGRA3/madnessfinalversion1/MadnessShotBeta/BOSS.h
+	"Enemies.h"
+	"SDL/SDL_image.h"
+
+1403509167 /home/cvarela/Desktop/PROGRA3/madnessfinalversion1/MadnessShotBeta/Enemies.h
+	<SDL/SDL.h>
+	<iostream>
+
+1403509167 source:/home/cvarela/Desktop/PROGRA3/madnessfinalversion1/MadnessShotBeta/BOSSL2.cpp
+	"BOSSL2.h"
+
+1403509167 /home/cvarela/Desktop/PROGRA3/madnessfinalversion1/MadnessShotBeta/BOSSL2.h
+	"Enemies.h"
+	"SDL/SDL_image.h"
+
+1403509167 source:/home/cvarela/Desktop/PROGRA3/madnessfinalversion1/MadnessShotBeta/derecha.cpp
+	"derecha.h"
+
+1403509167 /home/cvarela/Desktop/PROGRA3/madnessfinalversion1/MadnessShotBeta/derecha.h
+	"Enemies.h"
+
+1403509167 source:/home/cvarela/Desktop/PROGRA3/madnessfinalversion1/MadnessShotBeta/Enemies.cpp
+	"Enemies.h"
+
+1403510023 source:/home/cvarela/Desktop/PROGRA3/madnessfinalversion1/MadnessShotBeta/main.cpp
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	<string>
+	<stdlib.h>
+	<iostream>
+	"Enemies.h"
+	<list>
+	"derecha.h"
+	"abajo.h"
+	"arriba.h"
+	<sstream>
+	<fstream>
+	"SDL/SDL_ttf.h"
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	"SDL/SDL_mixer.h"
+	<list>
+	<algorithm>
+	<vector>
+	"BOSS.h"
+	"BOSSL2.h"
+
+1403509167 /home/cvarela/Desktop/PROGRA3/madnessfinalversion1/MadnessShotBeta/abajo.h
+	"Enemies.h"
+
+1403509167 /home/cvarela/Desktop/PROGRA3/madnessfinalversion1/MadnessShotBeta/arriba.h
+	"Enemies.h"
+
+1403511212 source:/home/kelvinosse/Downloads/madnessprefinal-master/MadnessShotBeta/BOSS.cpp
+	"BOSS.h"
+
+1403511212 /home/kelvinosse/Downloads/madnessprefinal-master/MadnessShotBeta/BOSS.h
+	"Enemies.h"
+	"SDL/SDL_image.h"
+
+1403511212 /home/kelvinosse/Downloads/madnessprefinal-master/MadnessShotBeta/Enemies.h
+	<SDL/SDL.h>
+	<iostream>
+
+1403511212 source:/home/kelvinosse/Downloads/madnessprefinal-master/MadnessShotBeta/BOSSL2.cpp
+	"BOSSL2.h"
+
+1403511212 /home/kelvinosse/Downloads/madnessprefinal-master/MadnessShotBeta/BOSSL2.h
+	"Enemies.h"
+	"SDL/SDL_image.h"
+
+1403511212 source:/home/kelvinosse/Downloads/madnessprefinal-master/MadnessShotBeta/derecha.cpp
+	"derecha.h"
+
+1403511212 /home/kelvinosse/Downloads/madnessprefinal-master/MadnessShotBeta/derecha.h
+	"Enemies.h"
+
+1403511212 source:/home/kelvinosse/Downloads/madnessprefinal-master/MadnessShotBeta/Enemies.cpp
+	"Enemies.h"
+
+1403547304 source:/home/kelvinosse/Downloads/madnessprefinal-master/MadnessShotBeta/main.cpp
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	<string>
+	<stdlib.h>
+	<iostream>
+	"Enemies.h"
+	<list>
+	"derecha.h"
+	"abajo.h"
+	"arriba.h"
+	<sstream>
+	<fstream>
+	"SDL/SDL_ttf.h"
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	"SDL/SDL_mixer.h"
+	<list>
+	<algorithm>
+	<vector>
+	"BOSS.h"
+	"BOSSL2.h"
+
+1403511212 /home/kelvinosse/Downloads/madnessprefinal-master/MadnessShotBeta/abajo.h
+	"Enemies.h"
+
+1403511212 /home/kelvinosse/Downloads/madnessprefinal-master/MadnessShotBeta/arriba.h
+	"Enemies.h"
+
